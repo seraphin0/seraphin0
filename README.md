@@ -1,1 +1,3 @@
-<img align="left" alt="Coding" width="420" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh1bXc5cG1ldXdnbzU2aXc1eDJnNHVoc2V1dGFtNW51ZzB3M2d6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIl8XBLZejbM5gG8dk/giphy.gif">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh1bXc5cG1ldXdnbzU2aXc1eDJnNHVoc2V1dGFtNW51ZzB3M2d6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIl8XBLZejbM5gG8dk/giphy.gif" alt="Funny GIF">
+</p>
